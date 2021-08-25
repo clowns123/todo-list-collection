@@ -1,0 +1,16 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "react": "cd ./react-todo-list && yarn start",
+    "vue": "cd ./vue-todo-list && yarn serve",
+    "angular": "cd ./angular-todo-list && yarn start",
+    "svlite": "cd ./svlite-todo-list && yarn start"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
